@@ -1,7 +1,7 @@
 id: P009107
 initial_creation_type: ocr
 created_at: 22/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-19 19:23:16.199990
 source_metadata:
   id: bdr:W26078
   title: གེ་སར
@@ -193,3 +193,5 @@ source_metadata:
       volume_number: 31
       total_pages: 362
       base_file: v031.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
